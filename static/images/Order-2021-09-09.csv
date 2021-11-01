@@ -1,0 +1,356 @@
+user,paymentMethod,taxPrice,shippingPrice,totalPrice,isPaid,paidAt,isDelivered,createdAt,status,orderStatus,customerType,_id
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,900.00,1075.50,1,2021-09-08 18:20:04,0,2021-09-08 18:15:36,Pending Payment,On Hold,Ordinary,355
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,1500.00,51091.98,1,2021-09-08 16:40:38,0,2021-09-08 16:28:32,Pending Payment,On Hold,Ordinary,354
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-08 16:04:58,Pending Payment,On Hold,Ordinary,353
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,440.70,0,,0,2021-09-08 15:51:33,Pending Payment,On Hold,Ordinary,352
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,49837.50,1,2021-09-08 15:49:50,1,2021-09-08 15:40:45,Pending Payment,On Hold,Ordinary,351
+1,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,440.70,0,,0,2021-09-08 14:35:27,Pending Payment,On Hold,Ordinary,350
+1,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,0.00,0.00,0,,0,2021-09-08 14:32:53,Pending Payment,On Hold,Ordinary,349
+1,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-08 14:32:01,Pending Payment,On Hold,Ordinary,348
+1,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-08 14:20:59,Pending Payment,On Hold,Ordinary,347
+1,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-09-08 13:55:30,Pending Payment,On Hold,Ordinary,346
+1,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.75,0,,0,2021-09-08 13:28:27,Pending Payment,On Hold,Ordinary,345
+1,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,41310.10,0,,0,2021-09-08 13:03:40,Pending Payment,On Hold,Ordinary,344
+1,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-08 10:55:09,Pending Payment,On Hold,Ordinary,343
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,394.71,0,,0,2021-09-08 10:53:47,Pending Payment,On Hold,Ordinary,342
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,2021-09-07 17:22:09,0,2021-09-07 17:21:48,Pending Payment,On Hold,Ordinary,341
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,310.80,0,,0,2021-09-07 17:18:06,Pending Payment,On Hold,Ordinary,340
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,49837.50,0,,0,2021-09-07 17:17:13,Pending Payment,On Hold,Ordinary,339
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,310.80,0,,0,2021-09-07 16:38:18,Pending Payment,On Hold,Ordinary,338
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-07 16:37:12,Pending Payment,On Hold,Ordinary,337
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,6000.00,731783.17,1,2021-09-07 14:04:34,1,2021-09-07 13:23:05,Pending Payment,On Hold,Ordinary,336
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-07 11:01:17,Pending Payment,On Hold,Ordinary,335
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,310.80,0,,0,2021-09-07 10:14:09,Pending Payment,On Hold,Ordinary,334
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,1,2021-09-06 11:04:20,0,2021-09-06 10:57:19,Pending Payment,On Hold,Ordinary,333
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,310.80,1,,0,2021-09-06 10:49:37,Pending Payment,On Hold,Ordinary,332
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,1,,0,2021-09-06 10:40:25,Pending Payment,On Hold,Ordinary,331
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,1,,0,2021-09-06 10:31:49,Pending Payment,On Hold,Ordinary,330
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,1,,0,2021-09-05 17:40:48,Pending Payment,On Hold,Ordinary,329
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,1,,0,2021-09-05 17:31:27,Pending Payment,On Hold,Ordinary,328
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,310.80,1,,0,2021-09-05 16:11:43,Pending Payment,On Hold,Ordinary,327
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,1,,0,2021-09-05 16:08:37,Pending Payment,On Hold,Ordinary,326
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,1,,0,2021-09-05 15:53:02,Pending Payment,On Hold,Ordinary,325
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,397.17,1,,0,2021-09-05 15:13:23,Pending Payment,On Hold,Ordinary,324
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,1,,0,2021-09-05 15:10:26,Pending Payment,On Hold,Ordinary,323
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,0,,0,2021-09-05 10:17:51,Pending Payment,On Hold,Ordinary,322
+15,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-05 10:14:35,Pending Payment,On Hold,Ordinary,321
+13,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-04 19:15:40,Pending Payment,Cancel,Ordinary,320
+13,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 19:12:45,Pending Payment,Cancel,Ordinary,319
+14,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-04 19:10:12,Pending Payment,Cancel,Ordinary,318
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,0,,0,2021-09-04 19:06:05,Pending Payment,Cancel,Ordinary,317
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 18:55:19,Pending Payment,Cancel,Ordinary,316
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 18:37:00,Pending Payment,Cancel,Ordinary,315
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-04 18:29:44,Pending Payment,Cancel,Ordinary,314
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 18:24:36,Done,Cancel,Ordinary,313
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 18:18:10,Pending Payment,Cancel,Ordinary,312
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 18:16:46,Pending Payment,Cancel,Ordinary,311
+15,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,0,,0,2021-09-04 18:08:18,Pending Payment,Cancel,Ordinary,310
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-04 17:57:22,Pending Payment,Cancel,Ordinary,309
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 17:54:41,Pending Payment,Cancel,Ordinary,308
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,310.80,0,,0,2021-09-04 17:47:13,Pending Payment,Cancel,Ordinary,307
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,0,,0,2021-09-04 17:43:54,Pending Payment,Cancel,Ordinary,306
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,0,,0,2021-09-04 17:37:24,Pending Payment,Cancel,Ordinary,305
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 17:36:05,Pending Payment,Cancel,Ordinary,304
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 17:26:56,Pending Payment,Cancel,Ordinary,303
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,397.17,0,,0,2021-09-04 16:47:24,Pending Payment,Cancel,Ordinary,302
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 16:02:06,Pending Payment,Cancel,Ordinary,301
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 15:57:52,Pending Payment,Cancel,Ordinary,300
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 15:57:33,Pending Payment,Cancel,Ordinary,299
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 15:55:15,Pending Payment,Cancel,Ordinary,298
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,397.17,0,,0,2021-09-04 15:45:23,Pending Payment,Cancel,Ordinary,297
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 15:44:30,Pending Payment,Cancel,Ordinary,296
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 15:34:55,Pending Payment,Cancel,Ordinary,295
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 15:20:52,Pending Payment,Cancel,Ordinary,294
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 14:55:34,Pending Payment,Cancel,Ordinary,293
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 14:49:40,Pending Payment,Cancel,Ordinary,292
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 14:46:21,Pending Payment,Cancel,Ordinary,291
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 14:42:01,Pending Payment,Cancel,Ordinary,290
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 14:40:15,Pending Payment,Cancel,Ordinary,289
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 14:35:23,Pending Payment,Cancel,Ordinary,288
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 14:34:35,Pending Payment,Cancel,Ordinary,287
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-04 14:15:32,Pending Payment,Cancel,Ordinary,286
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,11654.30,0,,0,2021-09-04 14:01:34,Pending Payment,Cancel,Ordinary,285
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,310.80,0,,0,2021-09-04 13:57:06,Pending Payment,Cancel,Ordinary,284
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,310.80,0,,0,2021-09-04 13:56:04,Pending Payment,Cancel,Ordinary,283
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:55:08,Pending Payment,Cancel,Ordinary,282
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:54:59,Pending Payment,Cancel,Ordinary,281
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:54:26,Pending Payment,Cancel,Ordinary,280
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:54:19,Pending Payment,Cancel,Ordinary,279
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:52:27,Pending Payment,Cancel,Ordinary,278
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 13:51:27,Pending Payment,Cancel,Ordinary,277
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 13:51:02,Pending Payment,Cancel,Ordinary,276
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 13:50:47,Pending Payment,Cancel,Ordinary,275
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,709.40,0,,0,2021-09-04 13:45:59,Pending Payment,Cancel,Ordinary,274
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,709.40,0,,0,2021-09-04 13:42:30,Pending Payment,Cancel,Ordinary,273
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:42:04,Pending Payment,Cancel,Ordinary,272
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,1800.00,40359.60,0,,0,2021-09-04 13:41:26,Pending Payment,Cancel,Ordinary,271
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,709.40,0,,0,2021-09-04 13:41:02,Pending Payment,Cancel,Ordinary,270
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:40:31,Pending Payment,Cancel,Ordinary,269
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:40:04,Pending Payment,Cancel,Ordinary,268
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 13:36:26,Pending Payment,Cancel,Ordinary,267
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:30:26,Pending Payment,Cancel,Ordinary,266
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 13:26:28,Pending Payment,Cancel,Ordinary,265
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:25:00,Pending Payment,Cancel,Ordinary,264
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:22:14,Pending Payment,Cancel,Ordinary,263
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 13:17:54,Pending Payment,Cancel,Ordinary,262
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:16:20,Pending Payment,Cancel,Ordinary,261
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:15:24,Pending Payment,Cancel,Ordinary,260
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:14:28,Pending Payment,Cancel,Ordinary,259
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 13:14:02,Pending Payment,Cancel,Ordinary,258
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 13:13:14,Pending Payment,Cancel,Ordinary,257
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 13:12:54,Pending Payment,Cancel,Ordinary,256
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 13:10:57,Pending Payment,Cancel,Ordinary,255
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:09:16,Pending Payment,Cancel,Ordinary,254
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:08:50,Pending Payment,Cancel,Ordinary,253
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:06:52,Pending Payment,Cancel,Ordinary,252
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:04:50,Pending Payment,Cancel,Ordinary,251
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:03:39,Pending Payment,Cancel,Ordinary,250
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:03:22,Pending Payment,Cancel,Ordinary,249
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:03:00,Pending Payment,Cancel,Ordinary,248
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 13:02:32,Pending Payment,Cancel,Ordinary,247
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:55:58,Pending Payment,Cancel,Ordinary,246
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:55:58,Pending Payment,Cancel,Ordinary,245
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:55:57,Pending Payment,Cancel,Ordinary,244
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:55:56,Pending Payment,Cancel,Ordinary,243
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:55:37,Pending Payment,Cancel,Ordinary,242
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:55:32,Pending Payment,Cancel,Ordinary,241
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:54:06,Pending Payment,Cancel,Ordinary,240
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 12:47:19,Pending Payment,Cancel,Ordinary,239
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:45:28,Pending Payment,Cancel,Ordinary,238
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,651.00,0,,0,2021-09-04 12:45:05,Pending Payment,Cancel,Ordinary,237
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 12:44:48,Pending Payment,Cancel,Ordinary,236
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 12:38:31,Pending Payment,Cancel,Ordinary,235
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,0,,0,2021-09-04 12:35:10,Pending Payment,Cancel,Ordinary,234
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 12:33:56,Pending Payment,Cancel,Ordinary,233
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-04 12:32:55,Pending Payment,Cancel,Ordinary,232
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 12:30:59,Pending Payment,Cancel,Ordinary,231
+18,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 12:25:40,Pending Payment,Cancel,Ordinary,230
+18,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:24:06,Pending Payment,Cancel,Ordinary,229
+18,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:23:17,Pending Payment,Cancel,Ordinary,228
+18,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 12:14:43,Pending Payment,Cancel,Ordinary,227
+18,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 12:12:22,Pending Payment,Cancel,Ordinary,226
+18,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 12:11:27,Pending Payment,Cancel,Ordinary,225
+18,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 12:00:29,Pending Payment,Cancel,Ordinary,224
+18,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 11:46:35,Pending Payment,Cancel,Ordinary,223
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,440.70,0,,0,2021-09-04 11:45:51,Pending Payment,Cancel,Ordinary,222
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 11:24:15,Pending Payment,Cancel,Ordinary,221
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-04 11:17:40,Pending Payment,Cancel,Ordinary,220
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 11:13:33,Pending Payment,Cancel,Ordinary,219
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,440.70,0,,0,2021-09-04 11:10:18,Pending Payment,Cancel,Ordinary,218
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 11:01:46,Pending Payment,Cancel,Ordinary,217
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-04 10:58:08,Pending Payment,Cancel,Ordinary,216
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,0,,0,2021-09-04 10:33:15,Pending Payment,Cancel,Ordinary,215
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,0,,0,2021-09-04 10:32:13,Pending Payment,Cancel,Ordinary,214
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 09:56:28,Pending Payment,Cancel,Ordinary,213
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 09:55:46,Pending Payment,Cancel,Ordinary,212
+17,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-04 09:54:37,Pending Payment,Cancel,Ordinary,211
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,394.71,0,,0,2021-09-02 13:25:49,Pending Payment,Cancel,Ordinary,210
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-02 13:24:46,Pending Payment,Cancel,Ordinary,209
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,0,,0,2021-09-02 13:22:42,Pending Payment,Cancel,Ordinary,208
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-09-02 13:21:02,Pending Payment,Cancel,Ordinary,207
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-02 13:20:10,Pending Payment,Cancel,Ordinary,206
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-02 13:19:17,Pending Payment,Cancel,Ordinary,205
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,394.71,0,,0,2021-09-02 13:18:09,Pending Payment,Cancel,Ordinary,204
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,394.71,0,,0,2021-09-02 13:17:41,Pending Payment,Cancel,Ordinary,203
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,394.71,0,,0,2021-09-02 13:17:09,Pending Payment,Cancel,Ordinary,202
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,394.71,0,,0,2021-09-02 13:16:54,Pending Payment,Cancel,Ordinary,201
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,330.80,0,,0,2021-09-02 13:15:10,Pending Payment,Cancel,Ordinary,200
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,3213.27,0,,0,2021-09-02 13:14:03,Pending Payment,Cancel,Ordinary,199
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-09-02 13:05:39,Pending Payment,Cancel,Ordinary,198
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,324.00,0,,0,2021-09-02 13:04:20,Pending Payment,Cancel,Ordinary,197
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-02 13:03:24,Pending Payment,Cancel,Ordinary,196
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-02 12:58:15,Pending Payment,Cancel,Ordinary,195
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-02 12:57:02,Pending Payment,Cancel,Ordinary,194
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-09-02 12:56:06,Pending Payment,Cancel,Ordinary,193
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,440.70,0,,0,2021-09-02 12:55:08,Pending Payment,Cancel,Ordinary,192
+15,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-02 12:46:14,Pending Payment,Cancel,Ordinary,191
+15,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-02 12:45:58,Pending Payment,Cancel,Ordinary,190
+15,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-02 12:45:52,Pending Payment,Cancel,Ordinary,189
+15,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-02 12:45:40,Pending Payment,Cancel,Ordinary,188
+15,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-09-02 12:44:18,Pending Payment,Cancel,Ordinary,187
+15,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-09-02 12:44:04,Pending Payment,Cancel,Ordinary,186
+15,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-09-02 12:43:39,Pending Payment,Cancel,Ordinary,185
+15,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-02 12:41:40,Pending Payment,Cancel,Ordinary,184
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-02 12:39:36,Pending Payment,Cancel,Ordinary,183
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,3146.90,0,,0,2021-09-02 12:38:13,Pending Payment,Cancel,Ordinary,182
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-09-02 12:29:01,Pending Payment,Cancel,Ordinary,181
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,385.40,0,,0,2021-09-02 12:26:59,Pending Payment,Cancel,Ordinary,180
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-09-02 12:07:59,Pending Payment,Cancel,Ordinary,179
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-09-01 14:41:39,Pending Payment,Cancel,Ordinary,178
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-01 14:40:44,Pending Payment,Cancel,Ordinary,177
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-09-01 14:40:49,Pending Payment,Cancel,Ordinary,176
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,394.71,0,,0,2021-09-01 14:19:34,Pending Payment,Cancel,Ordinary,175
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-08-31 17:41:41,Pending Payment,Cancel,Ordinary,174
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,900.00,39265.50,0,,0,2021-08-31 14:12:24,Pending Payment,Cancel,Ordinary,173
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-08-31 14:11:21,Pending Payment,Cancel,Ordinary,172
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-08-31 13:54:03,Pending Payment,Cancel,Ordinary,171
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,3140.10,0,,0,2021-08-31 13:37:16,Pending Payment,Cancel,Ordinary,170
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,1500.00,42487.38,0,,0,2021-08-31 11:39:18,Pending Payment,Cancel,Ordinary,169
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-08-31 11:20:23,Pending Payment,Cancel,Ordinary,168
+14,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,327.00,0,,0,2021-08-31 11:08:43,Pending Payment,Cancel,Ordinary,167
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-08-31 11:02:03,Pending Payment,Cancel,Ordinary,166
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,330.80,0,,0,2021-08-31 10:10:25,Pending Payment,Cancel,Ordinary,165
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,394.71,0,,0,2021-08-29 18:28:53,Pending Payment,Cancel,Ordinary,164
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,397.17,0,,0,2021-08-29 17:26:04,Pending Payment,Cancel,Ordinary,163
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,11343.50,0,,0,2021-08-29 16:12:24,Pending Payment,Cancel,Ordinary,162
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-08-29 16:09:54,Pending Payment,Cancel,Ordinary,161
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-08-29 15:02:36,Pending Payment,Cancel,Ordinary,160
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,3146.90,1,2021-08-29 13:50:46,0,2021-08-29 13:47:20,Done,On Hold,Ordinary,159
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,38494.00,0,,0,2021-08-29 13:36:37,Pending Payment,Cancel,Ordinary,158
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-08-29 13:33:26,Pending Payment,Cancel,Ordinary,157
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,2816.10,0,,0,2021-08-29 13:32:34,Pending Payment,Cancel,Ordinary,156
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,300.00,394.71,0,,0,2021-08-29 13:30:30,Pending Payment,Cancel,Ordinary,155
+7,"Bank Deposite, Fund Transfer (Online/Offline Payment)",0.00,600.00,49837.50,0,,0,2021-08-29 13:23:35,Pending Payment,Cancel,Ordinary,154
+7,ব্যাংক ডিপোজিট ফান্ড ট্রান্সফার (অনলাইন / অফলাইন পেমেন্ত),0.00,300.00,11343.50,0,,0,2021-08-29 13:20:36,Pending Payment,Cancel,Ordinary,153
+7,PayPal,0.00,600.00,721.92,0,,0,2021-08-29 13:09:44,Pending Payment,Cancel,Ordinary,152
+7,PayPal,0.00,1800.00,230964.00,0,,0,2021-08-29 12:50:17,Pending Payment,Cancel,Ordinary,151
+7,PayPal,0.00,1800.00,230964.00,0,,0,2021-08-29 12:49:53,Pending Payment,Cancel,Ordinary,150
+7,PayPal,0.00,1800.00,230964.00,0,,0,2021-08-29 12:49:10,Pending Payment,Cancel,Ordinary,149
+7,PayPal,0.00,1800.00,230964.00,0,,0,2021-08-29 12:49:10,Pending Payment,Cancel,Ordinary,148
+7,PayPal,0.00,1800.00,230964.00,0,,0,2021-08-29 12:49:09,Pending Payment,Cancel,Ordinary,147
+7,PayPal,0.00,1800.00,230964.00,0,,0,2021-08-29 12:49:08,Pending Payment,Cancel,Ordinary,146
+7,PayPal,0.00,1800.00,230964.00,0,,0,2021-08-29 12:49:08,Pending Payment,Cancel,Ordinary,145
+7,PayPal,0.00,1800.00,230964.00,0,,0,2021-08-29 12:49:07,Pending Payment,Cancel,Ordinary,144
+7,PayPal,0.00,1800.00,230964.00,0,,0,2021-08-29 12:49:05,Pending Payment,Cancel,Ordinary,143
+7,PayPal,0.00,1200.00,153976.00,0,,0,2021-08-29 12:48:55,Pending Payment,Cancel,Ordinary,142
+7,PayPal,0.00,1500.00,15322.22,0,,0,2021-08-29 12:48:18,Pending Payment,Cancel,Ordinary,141
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:59,Pending Payment,Cancel,Ordinary,140
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:57,Pending Payment,Cancel,Ordinary,139
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:57,Pending Payment,Cancel,Ordinary,138
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:57,Pending Payment,Cancel,Ordinary,137
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:56,Pending Payment,Cancel,Ordinary,136
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:47,Pending Payment,Cancel,Ordinary,135
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:46,Pending Payment,Cancel,Ordinary,134
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:42,Pending Payment,Cancel,Ordinary,133
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:42,Pending Payment,Cancel,Ordinary,132
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:41,Pending Payment,Cancel,Ordinary,131
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:37,Pending Payment,Cancel,Ordinary,130
+7,PayPal,0.00,2400.00,23770.52,0,,0,2021-08-29 12:47:32,Pending Payment,Cancel,Ordinary,129
+7,PayPal,0.00,300.00,2816.10,0,,0,2021-08-29 12:46:35,Pending Payment,Cancel,Ordinary,128
+7,PayPal,0.00,600.00,655.55,0,,0,2021-08-29 12:39:51,Pending Payment,Cancel,Ordinary,127
+7,PayPal,0.00,300.00,2816.10,0,,0,2021-08-29 12:37:06,Pending Payment,Cancel,Ordinary,126
+7,PayPal,0.00,1200.00,39654.16,0,,0,2021-08-29 12:36:26,Pending Payment,Cancel,Ordinary,125
+7,PayPal,0.00,900.00,961.80,0,,0,2021-08-29 12:35:26,Pending Payment,Cancel,Ordinary,124
+7,PayPal,0.00,600.00,651.00,0,,0,2021-08-29 12:34:19,Pending Payment,Cancel,Ordinary,123
+7,PayPal,0.00,900.00,961.80,0,,0,2021-08-29 12:22:59,Pending Payment,Cancel,Ordinary,122
+7,PayPal,0.00,300.00,11343.50,1,2021-08-29 18:12:57,0,2021-08-29 12:11:29,DONE,On Hold,Ordinary,121
+7,PayPal,0.00,600.00,651.00,0,,0,2021-08-29 12:08:24,Pending Payment,Cancel,Ordinary,120
+7,PayPal,0.00,600.00,38818.00,0,,0,2021-08-29 11:58:56,Pending Payment,Cancel,Ordinary,119
+7,PayPal,1.97,0.00,25.97,1,2021-08-29 18:06:40,0,2021-08-28 18:05:04,DONE,Waiting For Payment,Ordinary,118
+7,PayPal,2.53,0.00,33.33,0,,0,2021-08-28 18:00:15,PENDING_PAYMENT,Cancel,Ordinary,117
+7,PayPal,1.97,0.00,25.97,0,,0,2021-08-28 17:54:19,PENDING_PAYMENT,Cancel,Ordinary,116
+7,PayPal,7.77,0.00,102.48,0,,0,2021-08-28 17:48:54,PENDING_PAYMENT,Cancel,Ordinary,115
+7,PayPal,2.03,0.00,26.78,0,,0,2021-08-28 17:33:31,PENDING_PAYMENT,Cancel,Ordinary,114
+7,PayPal,2.03,0.00,26.78,0,,0,2021-08-28 15:30:56,PENDING_PAYMENT,Cancel,Ordinary,113
+7,PayPal,2.21,0.00,29.21,0,,0,2021-08-28 15:21:48,PENDING_PAYMENT,Cancel,Ordinary,112
+7,PayPal,1.97,0.00,25.97,1,2021-08-28 19:57:08,0,2021-08-28 13:56:52,DONE,ON_HOLD,Ordinary,111
+7,PayPal,7.97,0.00,105.14,1,2021-08-28 19:16:54,0,2021-08-28 13:16:27,DONE,ON_HOLD,Ordinary,110
+7,PayPal,2.03,0.00,26.78,0,,0,2021-08-28 12:38:59,PENDING_PAYMENT,Cancel,Ordinary,109
+14,PayPal,1.97,0.00,25.97,1,2021-08-28 18:26:44,1,2021-08-28 12:26:30,DONE,ON_HOLD,Ordinary,108
+7,PayPal,905.57,10.00,11959.07,1,2021-08-28 18:17:21,0,2021-08-28 12:17:04,DONE,ON_HOLD,Ordinary,107
+7,PayPal,206.32,10.00,2732.42,0,,0,2021-08-28 09:49:35,PENDING_PAYMENT,Cancel,Ordinary,106
+7,Regular,7.77,0.00,102.48,0,,0,2021-08-25 12:20:13,PENDING_PAYMENT,Cancel,,105
+7,PayPal,0.89,0.00,11.69,1,2021-08-25 16:47:46,0,2021-08-25 10:39:17,DONE,ON_HOLD,,104
+7,PayPal,7.00,0.00,92.40,0,,0,2021-08-25 10:22:56,PENDING_PAYMENT,Cancel,,103
+7,PayPal,2.53,0.00,33.33,1,2021-08-25 16:21:36,0,2021-08-25 10:21:19,DONE,ON_HOLD,,102
+7,PayPal,3338.23,10.00,44058.33,1,2021-08-25 16:30:04,0,2021-08-25 10:20:33,DONE,ON_HOLD,,101
+14,PayPal,208.35,10.00,2759.20,1,2021-08-24 22:05:19,0,2021-08-24 16:05:01,DONE,ON_HOLD,,100
+14,PayPal,2.03,0.00,26.78,1,2021-08-24 20:45:02,0,2021-08-24 14:43:15,DONE,ON_HOLD,,99
+14,PayPal,1.97,0.00,25.97,0,,0,2021-08-24 14:42:19,PENDING_PAYMENT,Cancel,,98
+14,PayPal,11.54,10.00,162.24,0,,0,2021-08-24 14:26:42,PENDING_PAYMENT,Cancel,,97
+14,PayPal,1.97,0.00,25.97,1,2021-08-24 20:03:11,0,2021-08-24 14:02:37,DONE,ON_HOLD,,96
+14,PayPal,1.97,0.00,25.97,1,2021-08-24 20:07:36,0,2021-08-24 14:02:17,DONE,ON_HOLD,,95
+14,PayPal,1.97,0.00,25.97,1,2021-08-24 20:00:08,0,2021-08-24 13:57:30,DONE,ON_HOLD,,94
+7,PayPal,2.03,0.00,26.78,1,2021-08-24 19:56:30,0,2021-08-24 13:56:15,DONE,ON_HOLD,,93
+7,PayPal,7.97,0.00,105.14,0,,0,2021-08-24 13:45:48,PENDING_PAYMENT,Cancel,,92
+7,PayPal,2.03,0.00,26.78,0,,0,2021-08-24 13:43:23,PENDING_PAYMENT,Cancel,,91
+7,PayPal,10.00,10.00,141.92,0,,0,2021-08-24 13:42:07,PENDING_PAYMENT,Cancel,,90
+7,PayPal,1.97,0.00,25.97,1,2021-08-24 00:07:51,0,2021-08-23 18:06:10,DONE,ON_HOLD,,89
+7,PayPal,2.03,0.00,26.78,0,,0,2021-08-23 15:09:04,PENDING_PAYMENT,Cancel,,88
+7,PayPal,11.54,10.00,162.24,0,,0,2021-08-23 15:07:22,PENDING_PAYMENT,Cancel,,87
+13,PayPal,2.21,0.00,29.21,0,,0,2021-08-22 16:33:32,PENDING_PAYMENT,Cancel,,86
+13,PayPal,0.00,0.00,0.00,0,,0,2021-08-22 13:51:30,PENDING_PAYMENT,Cancel,,85
+13,PayPal,1.97,0.00,25.97,1,2021-08-22 20:11:21,0,2021-08-22 13:51:25,DONE,ON_HOLD,,84
+14,PayPal,2.53,0.00,33.33,0,,0,2021-08-22 13:49:51,PENDING_PAYMENT,Cancel,,83
+14,PayPal,1.97,0.00,25.97,0,,0,2021-08-22 13:41:07,PENDING_PAYMENT,Cancel,,82
+14,PayPal,1.97,0.00,25.97,0,,0,2021-08-22 13:39:50,PENDING_PAYMENT,Cancel,,81
+14,PayPal,1.97,0.00,25.97,0,,0,2021-08-22 13:35:40,PENDING_PAYMENT,Cancel,,80
+14,PayPal,2.03,0.00,26.78,0,,0,2021-08-22 13:33:52,PENDING_PAYMENT,Cancel,,79
+13,PayPal,0.89,0.00,11.69,0,,0,2021-08-22 13:32:30,PENDING_PAYMENT,Cancel,,78
+13,PayPal,2.03,0.00,26.78,0,,0,2021-08-22 12:28:02,PENDING_PAYMENT,Cancel,,77
+13,PayPal,1.97,0.00,25.97,0,,0,2021-08-22 12:20:37,PENDING_PAYMENT,Cancel,,76
+13,PayPal,9.53,10.00,135.73,0,,0,2021-08-22 10:19:16,PENDING_PAYMENT,Cancel,,75
+13,PayPal,1.97,0.00,25.97,0,,0,2021-08-21 13:31:36,PENDING_PAYMENT,Cancel,,74
+7,PayPal,2.03,0.00,26.78,0,,0,2021-08-21 13:25:21,PENDING_PAYMENT,Cancel,,73
+7,PayPal,1.97,0.00,25.97,0,,0,2021-08-21 11:23:30,PENDING_PAYMENT,Cancel,,72
+7,on,7.00,0.00,92.40,0,,0,2021-08-21 11:22:25,PENDING_PAYMENT,Cancel,,71
+7,PayPal,2.21,0.00,29.21,0,,0,2021-08-21 11:03:58,PENDING_PAYMENT,Cancel,,70
+7,on,1.97,0.00,25.97,0,,0,2021-08-19 17:56:01,PENDING_PAYMENT,Cancel,,69
+7,PayPal,7.97,0.00,105.14,0,,0,2021-08-19 17:13:34,PENDING_PAYMENT,Cancel,,68
+7,PayPal,7.00,0.00,92.40,0,,0,2021-08-19 16:13:27,PENDING_PAYMENT,Cancel,,67
+7,PayPal,4.56,0.00,60.11,0,,0,2021-08-19 15:37:36,PENDING_PAYMENT,Cancel,,66
+7,PayPal,14.01,10.00,194.81,0,,0,2021-08-19 15:32:01,PENDING_PAYMENT,Cancel,,65
+7,PayPal,2.21,0.00,29.21,0,,0,2021-08-19 15:21:33,PENDING_PAYMENT,Cancel,,64
+7,PayPal,7.00,0.00,92.40,0,,0,2021-08-19 15:21:02,PENDING_PAYMENT,Cancel,,63
+7,PayPal,0.89,0.00,11.69,0,,0,2021-08-19 15:19:01,PENDING_PAYMENT,Cancel,,62
+7,PayPal,7.58,0.00,99.98,0,,0,2021-08-19 14:42:15,PENDING_PAYMENT,Cancel,,61
+7,PayPal,7.97,0.00,105.14,0,,0,2021-08-19 14:40:34,PENDING_PAYMENT,Cancel,,60
+7,PayPal,23.90,10.00,325.41,0,,0,2021-08-19 14:40:26,PENDING_PAYMENT,Cancel,,59
+7,PayPal,23.90,10.00,325.41,0,,0,2021-08-19 14:40:22,PENDING_PAYMENT,Cancel,,58
+7,PayPal,23.90,10.00,325.41,0,,0,2021-08-19 14:40:20,PENDING_PAYMENT,Cancel,,57
+7,PayPal,23.90,10.00,325.41,0,,0,2021-08-19 14:40:17,PENDING_PAYMENT,Cancel,,56
+7,PayPal,23.90,10.00,325.41,0,,0,2021-08-19 14:40:14,PENDING_PAYMENT,Cancel,,55
+7,PayPal,6.52,0.00,86.07,1,2021-08-19 18:48:30,0,2021-08-19 12:48:13,CANCEL,ON_HOLD,,54
+7,PayPal,1.97,0.00,25.97,1,2021-08-19 18:44:38,1,2021-08-19 12:40:14,DONE,ON_HOLD,,53
+7,PayPal,7.97,0.00,105.14,0,,0,2021-08-19 12:38:09,PENDING_PAYMENT,Cancel,,52
+12,PayPal,0.89,0.00,11.69,0,,0,2021-08-17 17:44:28,PENDING_PAYMENT,Cancel,,51
+12,PayPal,0.89,0.00,11.69,1,2021-08-17 23:42:30,0,2021-08-17 17:42:12,DONE,ON_HOLD,,50
+12,PayPal,7.00,0.00,92.40,1,2021-08-17 23:40:21,0,2021-08-17 17:39:04,DONE,ON_HOLD,,49
+7,PayPal,0.89,0.00,11.69,1,2021-08-17 22:33:58,0,2021-08-17 16:33:35,DONE,ON_HOLD,,48
+7,PayPal,2.53,0.00,33.33,1,2021-08-17 22:22:18,0,2021-08-17 16:21:11,DONE,ON_HOLD,,47
+7,on,1.97,0.00,25.97,0,,0,2021-08-17 16:20:39,PENDING_PAYMENT,Cancel,,46
+12,PayPal,1.97,0.00,25.97,0,,0,2021-08-17 16:12:15,PENDING_PAYMENT,Cancel,,45
+12,PayPal,2.03,0.00,26.78,0,,0,2021-08-17 16:05:00,PENDING_PAYMENT,Cancel,,44
+12,PayPal,2.53,0.00,33.33,1,2021-08-17 22:02:14,0,2021-08-17 16:01:54,Done,ON_HOLD,,43
+12,PayPal,7.97,0.00,105.14,1,2021-08-17 22:01:23,0,2021-08-17 16:01:03,Done,ON_HOLD,,42
+12,PayPal,6314.00,10.00,83324.00,0,,0,2021-08-17 15:58:44,PENDING_PAYMENT,Cancel,,41
+12,PayPal,19.68,10.00,269.68,1,2021-08-17 21:57:33,0,2021-08-17 15:57:05,Done,ON_HOLD,,40
+12,PayPal,19.68,10.00,269.68,1,2021-08-17 21:51:24,1,2021-08-17 15:50:27,DONE,ON_HOLD,,39
+7,PayPal,19.68,10.00,269.68,1,2021-08-17 21:18:13,0,2021-08-17 15:15:41,DONE,ON_HOLD,,38
+7,PayPal,19.68,10.00,269.68,1,2021-08-17 21:09:39,0,2021-08-17 15:09:02,Done,ON_HOLD,,37
+7,PayPal,19.68,10.00,269.68,1,,0,2021-08-17 14:51:46,Done,ON_HOLD,,36
+7,PayPal,19.68,10.00,269.68,1,,0,2021-08-17 14:50:49,Done,ON_HOLD,,35
+7,PayPal,19.68,10.00,269.68,1,,0,2021-08-17 14:49:08,Done,ON_HOLD,,34
+7,PayPal,19.68,10.00,269.68,1,,0,2021-08-17 14:46:08,Done,ON_HOLD,,33
+7,PayPal,17220.00,10.00,227230.00,0,,0,2021-08-17 14:30:16,PENDING_PAYMENT,Cancel,,32
+7,PayPal,11480.00,10.00,151490.00,0,,0,2021-08-17 13:51:17,PENDING_PAYMENT,Cancel,,31
+7,PayPal,17220.00,10.00,227230.00,0,,0,2021-08-17 13:46:13,PENDING_PAYMENT,Cancel,,30
+7,PayPal,34440.00,10.00,454450.00,0,,0,2021-08-17 13:46:07,PENDING_PAYMENT,Cancel,,29
+7,PayPal,34440.00,10.00,454450.00,0,,0,2021-08-17 13:44:56,PENDING_PAYMENT,Cancel,,28
+7,PayPal,34440.00,10.00,454450.00,0,,0,2021-08-17 13:44:56,PENDING_PAYMENT,Cancel,,27
+7,PayPal,34440.00,10.00,454450.00,0,,0,2021-08-17 13:44:55,PENDING_PAYMENT,Cancel,,26
+7,PayPal,34440.00,10.00,454450.00,0,,0,2021-08-17 13:44:52,PENDING_PAYMENT,Cancel,,25
+7,PayPal,34440.00,10.00,454450.00,0,,0,2021-08-17 13:44:51,PENDING_PAYMENT,Cancel,,24
+7,PayPal,34440.00,10.00,454450.00,0,,0,2021-08-17 13:44:44,PENDING_PAYMENT,Cancel,,23
+7,PayPal,11480.00,10.00,151490.00,1,2021-08-17 11:16:57,0,2021-08-17 11:16:33,DONE,ON_HOLD,,22
+7,PayPal,20545.53,10.00,271110.78,0,,0,2021-08-17 10:30:28,PENDING_PAYMENT,Cancel,,21
+7,PayPal,816899.63,10.00,10779100.18,1,2021-08-16 17:26:08,0,2021-08-16 17:25:28,PENDING_PAYMENT,ON_HOLD,,20
+7,on,6314.00,10.00,83324.00,0,,0,2021-08-16 17:05:39,PENDING_PAYMENT,Cancel,,19
+7,PayPal,11480.00,10.00,151490.00,0,,0,2021-08-16 16:06:28,PENDING_PAYMENT,Cancel,,18
+7,PayPal,64288000.00,10.00,848288010.00,0,,0,2021-08-16 15:07:57,PENDING_PAYMENT,Cancel,,17
+7,PayPal,64288000.00,10.00,848288010.00,0,,0,2021-08-16 15:07:55,PENDING_PAYMENT,Cancel,,16
+7,PayPal,1968000.00,10.00,25968010.00,0,,0,2021-08-16 15:07:41,PENDING_PAYMENT,Cancel,,15
+7,PayPal,1968000.00,10.00,25968010.00,0,,0,2021-08-16 15:07:40,PENDING_PAYMENT,Cancel,,14
+7,PayPal,1968000.00,10.00,25968010.00,0,,0,2021-08-16 15:07:27,PENDING_PAYMENT,Cancel,,13
+7,PayPal,2602133.07,10.00,34335473.23,0,,0,2021-08-16 14:32:08,PENDING_PAYMENT,Cancel,,12
+7,PayPal,514276.18,10.00,6785946.89,0,,0,2021-08-16 14:30:48,PENDING_PAYMENT,Cancel,,11
+7,on,390365.08,10.00,5150924.83,0,,0,2021-08-16 14:30:25,PENDING_PAYMENT,Cancel,,10
+7,on,390365.08,10.00,5150924.83,0,,0,2021-08-16 14:29:39,PENDING_PAYMENT,Cancel,,9
+7,PayPal,123911.10,10.00,1635032.06,0,,0,2021-08-16 14:27:02,PENDING_PAYMENT,Cancel,,8
+7,PayPal,6314.00,10.00,83324.00,0,,0,2021-08-16 14:25:33,PENDING_PAYMENT,Cancel,,7
+7,PayPal,123911.10,10.00,1635032.06,0,,0,2021-08-16 14:20:51,PENDING_PAYMENT,Cancel,,6
+,PayPal,6314.00,10.00,83324.00,0,,0,2021-08-16 13:48:36,PENDING_PAYMENT,Cancel,,5
+7,PayPal,656000.00,10.00,8656010.00,0,,0,2021-08-16 13:39:06,PENDING_PAYMENT,Cancel,,4
+7,PayPal,17220.00,10.00,227230.00,0,,0,2021-08-16 13:25:35,PENDING_PAYMENT,Cancel,,3
+7,PayPal,135391.10,10.00,1786512.06,0,,0,2021-08-16 13:05:55,PENDING_PAYMENT,Cancel,,2
+7,PayPal,135391.10,10.00,1786512.06,0,,0,2021-08-16 13:04:28,PENDING_PAYMENT,Cancel,,1
