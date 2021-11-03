@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-$h-7*e@6=eici@)0n5j3jo-c@j=^@ucgcgljjp9i1wup-emmvd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'laksura.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -199,12 +199,14 @@ USE_TZ = True
 STATIC_URL = '/static/'
 MEDIA_URL = '/images/'
 
+
 STATICFILES_DIRS = [
     BASE_DIR / 'static',
     BASE_DIR / 'frontend/build/static'
 ]
    
 MEDIA_ROOT = 'static/images'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 JAZZMIN_UI_TWEAKS = {
     "theme": "simplex",

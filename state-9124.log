@@ -1,4 +1,4 @@
-[ERROR Nov  1 15:47:35.930827100, defaults.go:149] Could not load configuration: Failed to load configuration.
+[ERROR Nov  2 10:43:06.033204600, defaults.go:149] Could not load configuration: Failed to load configuration.
 
 Stacktrace: D:/a/cli/cli/internal/logging/logging.go:github.com/ActiveState/cli/internal/logging.Error:258
 D:/a/cli/cli/internal/logging/defaults.go:github.com/ActiveState/cli/internal/logging.init.0:149
@@ -8,5 +8,5 @@ C:/hostedtoolcache/windows/go/1.15.15/x64/src/runtime/proc.go:runtime.doInit:564
 C:/hostedtoolcache/windows/go/1.15.15/x64/src/runtime/proc.go:runtime.main:191
 C:/hostedtoolcache/windows/go/1.15.15/x64/src/runtime/asm_amd64.s:runtime.goexit:1374
 
-[DEBUG Nov  1 15:47:35.940798400, defaults.go:178] Args: [C:\Users\USER\AppData\Roaming\ActiveState\bin\state.exe show --output editor]
-[DEBUG Nov  1 15:47:35.940798400, locale.go:34] Init
+[DEBUG Nov  2 10:43:06.034204600, defaults.go:178] Args: [C:\Users\USER\AppData\Roaming\ActiveState\bin\state.exe show --output editor]
+[DEBUG Nov  2 10:43:06.035204900, locale.go:34] Init
