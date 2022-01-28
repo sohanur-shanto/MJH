@@ -35,9 +35,9 @@ INSTALLED_APPS = [
     'jazzmin',
     'import_export',
     'rangefilter',
-    'django_crontab',
-    'background_task',
-    "django_cron",
+#     'django_crontab',
+#     'background_task',
+#     "django_cron",
 
 
     'django.contrib.admin',
@@ -151,13 +151,13 @@ DATABASES = {
 # }
 
 
-CRONJOBS = [
-    ('*/1 * * * *', 'base.cron.my_scheduled_job')
-]
+# CRONJOBS = [
+#     ('*/1 * * * *', 'base.cron.my_scheduled_job')
+# ]
 
-CRON_CLASSES = [
-    "base.cron.MyCronJob",
-]
+# CRON_CLASSES = [
+#     "base.cron.MyCronJob",
+# ]
 
 
 # Password validation
