@@ -1,5 +1,5 @@
-from apscheduler.schedulers.background import BackgroundScheduler
-from .jobs import my_scheduled_job, my_email, my_payment
+# from apscheduler.schedulers.background import BackgroundScheduler
+# from .jobs import my_scheduled_job, my_email, my_payment
 
 # def start():
 #     scheduler = BackgroundScheduler()
